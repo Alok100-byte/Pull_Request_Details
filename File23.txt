@@ -1,1 +1,3 @@
 New file in the feature1 branch
+
+Added one more line to have 2 commits to understand rebase otpion
